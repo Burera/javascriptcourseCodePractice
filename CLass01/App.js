@@ -73,21 +73,7 @@ console.log(arr1)
 // Reference Data Types:
 
 
-// Primitive:
-// String
-// number
-// Boolean
-// null
-// undefined
-// Symbol
-
-// Reference DataTypes:
-// Arrays 
-// Object literals:
-// function
-// Dates
-// // Primitive data types
-
+   
 // // String
 // let name = "harry";
 // console.log("My string is " + name);
