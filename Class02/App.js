@@ -56,6 +56,8 @@ console.log(date, (typeof date));
 
 
 
+//String Methods and properties
+
 
 // console.log('We are at tut 6');
 // const name = 'Harry';
